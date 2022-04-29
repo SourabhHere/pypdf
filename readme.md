@@ -6,7 +6,7 @@ It is written using the PyPDF2 python package.
 
 The program for compressing the pdfs requires the name of file as argument as shown below.
 
-`python3 merger.py demo-pdf1.pdf demo-pdf2.pdf`
+`python3 compress.py demo-pdf1.pdf`
 
 Files can be merged by running following command.
 
